@@ -4,16 +4,6 @@
     {"name": "A Conference", "short" :  "A"},
     {"name": "B Conference", "short" :  "B"}
   ],
-  "divisions" : [
-    {"name": "A East",  "short" :  "A East"},
-    {"name": "A West",  "short" :  "A West"},
-    {"name": "A North", "short" :  "A North"},
-    {"name": "A South", "short" :  "A South"},
-    {"name": "B East",  "short" :  "B East"},
-    {"name": "B West",  "short" :  "B West"},
-    {"name": "B North", "short" :  "B North"},
-    {"name": "B South", "short" :  "B South"}
-  ],
   "teams" : [
     {"cityOrState": "Phoenix",     	  "name": "Rockets",      "short": "PHN",   "homeText": "869397",	"homeMain": "041E42",	"homeSecondary": "869397",	"awayText": "041E42",	"awayMain": "FFFFFF", "awaySecondary": "869397", "stadium" : "Phoenix Stadium",         "logo" : "https://github.com/C4pit4no/ufhc_default_teams/raw/main/1.png"},
     {"cityOrState": "Nashville",   	  "name": "Warriors",     "short": "NSH", 	"homeText": "D3BC8D",	"homeMain": "000000",	"homeSecondary": "FFFFFF",	"awayText": "000000",	"awayMain": "FFFFFF", "awaySecondary": "D3BC8D", "stadium" : "Nashville Stadium",       "logo" : "https://github.com/C4pit4no/ufhc_default_teams/raw/main/2.png"},

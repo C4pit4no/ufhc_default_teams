@@ -1,8 +1,8 @@
 {
   "league" : {"name": "Football League", "short" :  "FL"},
   "conferences" : [
-    {"name": "A Conference", "short" :  "A"},
-    {"name": "B Conference", "short" :  "B"}
+    {"name": "A", "short" :  "A"},
+    {"name": "B", "short" :  "B"}
   ],
   "teams" : [
     {"cityOrState": "Phoenix",     	  "name": "Rockets",      "short": "PHN",   "homeText": "869397",	"homeMain": "041E42",	"homeSecondary": "869397",	"awayText": "041E42",	"awayMain": "FFFFFF", "awaySecondary": "869397", "stadium" : "Phoenix Stadium",         "logo" : "https://github.com/C4pit4no/ufhc_default_teams/raw/main/1.png"},
